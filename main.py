@@ -1,3 +1,5 @@
+#Execution des algorithmes avec python
+
 # declaration de la fonction somme
 """ cette fonction va nous permetre de calculer la somme de deux nombre """
 def somme( a , b):
